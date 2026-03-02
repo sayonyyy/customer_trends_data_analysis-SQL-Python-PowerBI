@@ -1,6 +1,6 @@
 # 📊 Customer Shopping Behavior Analysis
 
-A complete end-to-end data analytics project using **Python**, **MySQL**, **Power BI**, and **business reporting** to uncover insights about customer demographics, spending behavior, product preferences, and loyalty patterns.
+A complete end-to-end data analytics project using **Python**, **MySQL**, **Power BI**, **business reporting** and **presentation** to uncover insights about customer demographics, spending behavior, product preferences, and loyalty patterns.
 
 ---
 
